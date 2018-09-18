@@ -346,7 +346,7 @@ ul#nav li.current a { color: #F06000; }
 
    margin: 0;
    padding-right: 24px;
-  	background: #313131;
+  	background: #990066;
    display: inline-block;
   	height: 42px;
    line-height: 42px;
@@ -373,7 +373,7 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: photoshop 2s ease;
 }
 .datadesign {
-  	width: 50%;
+  	width: 70%;
   	-moz-animation: illustrator 2s ease;
   	-webkit-animation: illustrator 2s ease;
 }
@@ -383,7 +383,7 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: wordpress 2s ease;
 }
 .css {
-  	width: 30%;
+  	width: 40%;
   	-moz-animation: css 2s ease;
   	-webkit-animation: css 2s ease;
 }
